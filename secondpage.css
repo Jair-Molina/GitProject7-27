@@ -1,0 +1,9 @@
+body {
+    background-color: antiquewhite;
+}
+
+div {
+    margin: 40px;
+    padding: 30px;
+    border-style: dotted;
+}
